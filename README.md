@@ -1,9 +1,9 @@
 # nice_OS
 
-#### 介绍
+#### introduct
 a OS system
 
-#### 使用说明
+#### use
 class 1
 
 1.creat five files 
@@ -32,4 +32,3 @@ boot/grub/grub.cfg sodu vim    ......    :wq!
 
 copy "HelloOS.bin" to boot/grub
 
-#### 参与贡献
